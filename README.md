@@ -2,6 +2,8 @@
 
 #### Description:
 
+技术栈主要为：vue,javascript,vuex,vuerouter,less
+
 本项目为仿网易严选项目，主要是前端页面，没有后端部分
 
 ## Project setup
